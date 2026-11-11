@@ -3,9 +3,6 @@
 ## Course
 21CSC301T – Formal Language and Automata
 
-## Student
-Dibin Nair
-
 ## Description
 This repository contains Python implementations of three DFA-based validation applications developed for Assignment 2.
 
@@ -35,7 +32,6 @@ username.py
 email.py
 file.py
 README.md
-Report.pdf
 ```
 
 ## How to Run
@@ -46,8 +42,3 @@ python email.py
 python file.py
 ```
 
-## Author
-Dibin Nair
-
-## License
-For academic use only.
